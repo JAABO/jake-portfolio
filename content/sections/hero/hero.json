@@ -1,0 +1,22 @@
+{
+  "intro": "Sain uu?",
+  "heroPhoto": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I am Jake Boldbaatar",
+  "subtitle": {
+    "prefix": "Here is my minimal theme ",
+    "highlight": "portfolio",
+    "suffix": "."
+  },
+  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
+  }
+}

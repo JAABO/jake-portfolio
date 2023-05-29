@@ -1,0 +1,13 @@
+{
+  "name": "Gatsby Starter For Portfolio Minimal",
+  "email": "jake.boldbaatar@gmail.com",
+  "description": "Donate button to support volunteer software developers on Github.",
+  "image": {
+    "src": "../../images/favicon.png",
+    "alt": "Gatsby Logo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": true
+  }
+}
