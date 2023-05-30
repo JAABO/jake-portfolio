@@ -1,13 +1,4 @@
 module.exports = {
-  developMiddleware: (app) => {
-    app.use(
-      "/create-payment-intent",
-      createProxyMiddleware({
-        target: "http://localhost:3000", // Replace with your Stripe server URL
-        changeOrigin: true,
-      })
-    );
-  },
   plugins: [
     {
       resolve: "gatsby-theme-portfolio-minimal",
