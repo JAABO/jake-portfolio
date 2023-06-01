@@ -24,7 +24,7 @@
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Donate blah blah",
+        "label": "Lazy donate button",
         "url": "https://donate.stripe.com/test_cN29AY1Uj2gw5SobIK"
       },
       "footer": [
