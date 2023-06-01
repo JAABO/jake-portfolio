@@ -13,7 +13,7 @@ const DonationForm = () => {
     try {
       // Make a request to the backend to obtain the client secret
       const response = await fetch(
-        "https://api.stripe.com/v1/checkout/sessions",
+        "https://api.stripe.com/v1/payment_intents",
         {
           method: "POST",
           headers: {
